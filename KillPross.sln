@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "KillPross", "KillPross\KillPross.pyproj", "{294E0DD4-D409-4721-A6A4-F372B66B20DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{294E0DD4-D409-4721-A6A4-F372B66B20DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294E0DD4-D409-4721-A6A4-F372B66B20DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F07E19FF-4513-4E97-A509-50F90A2B56E2}
+	EndGlobalSection
+EndGlobal
